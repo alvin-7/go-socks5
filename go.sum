@@ -1,0 +1,4 @@
+github.com/alvin-7/go-socks5 v0.0.0-20160902184237-e75332964ef5 h1:Vc0R9lDMlNdnNiZCfot5x+O/KNUDYx10LpeIijGLmAI=
+github.com/alvin-7/go-socks5 v0.0.0-20160902184237-e75332964ef5/go.mod h1:jpUY0bRWLkkQbWAxNZuV+mx6oPvkUZjjKoEUgOvnYb0=
+golang.org/x/net v0.9.0 h1:aWJ/m6xSmxWBx+V0XRHTlrYrPG56jKsLdTFmsSsCzOM=
+golang.org/x/net v0.9.0/go.mod h1:d48xBJpPfHeWQsugry2m+kC02ZBRGRgulfHnEXEuWns=
